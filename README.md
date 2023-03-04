@@ -26,9 +26,7 @@
 </div>
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreejeshballal&show_icons=true&locale=en&layout=compact" alt="shreejeshballal" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreejeshballal&show_icons=true&locale=en" alt="shreejeshballal" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreejeshballal&" alt="shreejeshballal" /></p>
 
 
