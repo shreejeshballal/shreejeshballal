@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreejeshballal&label=Profile%20views&color=0e75b6&style=flat" alt="shreejeshballal" /> </p>
 
 
-- 🌟 I'm Curious and enthusiastic **learner**
-- 👯 I Love programming and developing **applications**
-- 🌱 I'm currently learning backend development **with Node**
+- 🌟 I'm Curious and enthusiastic learner
+- 👯 I Love programming and developing applications
+- 🌱 I'm currently learning backend development with Node
 - 📄 Know about my experiences [https://resume.io/r/gJxFWImBx](https://resume.io/r/gJxFWImBx)
 - 💬 Ask me about **react, css, html**
 - 📫 How to reach me **shreejeshballal@gmail.com**
