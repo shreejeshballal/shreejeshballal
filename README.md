@@ -7,9 +7,9 @@
 - 🌟 I'm Curious and enthusiastic learner
 - 👯 I Love programming and developing applications
 - 🌱 I'm currently learning backend development with Node
-- 📄 Know about my experiences [https://resume.io/r/gJxFWImBx](https://resume.io/r/gJxFWImBx)
 - 💬 Ask me about **react, css, html**
 - 📫 How to reach me **shreejeshballal@gmail.com**
+- ⭐ View my portfolio **https://shreejeshballal.vercel.app/**
 
 
 <h3 align="left">Connect with me:</h3>
